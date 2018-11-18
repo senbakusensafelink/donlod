@@ -27,7 +27,7 @@ if(x=="1"){xxx="/2018/10/post1.html"}
 if(x=="2"){xxx="/2018/10/post2.html"}
 if(x=="3"){xxx="/2018/10/post3.html"}
 if(x=="4"){xxx="/2018/10/post4.html"}
-if(x=="5"){xxx="/2018/10/post5.html"}a_to_ve[i].href="https://donlod.senbakusen.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/10/post5.html"}a_to_ve[i].href="https://donlodsenbakusen.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
